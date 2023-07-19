@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore the Django project settings file
+# gosen/settings.py
+
+# Ignore the database file
+# ./db.sqlite3
+
+# Ignore compiled Python bytecode
+*.pyc
